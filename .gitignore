@@ -1,0 +1,6 @@
+.idea
+.vscode
+.log
+.ssh
+.tmp*
+.vscode/sftp.json
